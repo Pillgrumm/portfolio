@@ -1,0 +1,22 @@
+fullstack-engineer.me (edit)
+
+About Me: (Edit)
+	I am a full stack developer passionate about good quality code, learning from other individuals 
+looking to seek modern solutions to abstract issues.  
+	
+Personal photo (Take one): Mona lisa effect, don't look into the lenses, look further up. Head positioned to 
+see both ears
+
+Skills:
+	HTML5, CSS3, JavaScript, jQuery, Git, Github, AJAX, Node.js, MongoDB, React.js, Mocha, Chai,
+	Django, JIRA.
+
+Projects:
+	Office Quiz, Band Wagon (Bugged), NICU, DnD
+
+Contact:
+	Email
+	GitHub
+	LinkedIn
+
+Slogan: Consider. Shape. Influence. Shine.
